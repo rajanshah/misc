@@ -1,0 +1,2456 @@
+[
+    {
+        "company": "22nd Century Group", 
+        "industry": "Consumer Non-Durables", 
+        "sector": "n/a", 
+        "symbol": "XXII"
+    }, 
+    {
+        "company": "Aberdeen Asia-Pacific Income Fund Inc", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "FAX"
+    }, 
+    {
+        "company": "Aberdeen Australia Equity Fund Inc", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "IAF"
+    }, 
+    {
+        "company": "Aberdeen Chile Fund", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "CH"
+    }, 
+    {
+        "company": "Aberdeen Emerging Markets Smaller Company Opportunities Fund I", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "ETF"
+    }, 
+    {
+        "company": "Aberdeen Global Income Fund", 
+        "industry": "n/a", 
+        "sector": "1992", 
+        "symbol": "FCO"
+    }, 
+    {
+        "company": "Aberdeen Indonesia Fund", 
+        "industry": "n/a", 
+        "sector": "1990", 
+        "symbol": "IF"
+    }, 
+    {
+        "company": "Aberdeen Israel Fund", 
+        "industry": "n/a", 
+        "sector": "1992", 
+        "symbol": "ISL"
+    }, 
+    {
+        "company": "Acme United Corporation.", 
+        "industry": "Industrial Machinery/Components", 
+        "sector": "Capital Goods", 
+        "symbol": "ACU"
+    }, 
+    {
+        "company": "ACRE Realty Investors", 
+        "industry": "Consumer Services", 
+        "sector": "n/a", 
+        "symbol": "AIII"
+    }, 
+    {
+        "company": "Actinium Pharmaceuticals", 
+        "industry": "Health Care", 
+        "sector": "n/a", 
+        "symbol": "ATNM"
+    }, 
+    {
+        "company": "Adams Resources & Energy", 
+        "industry": "Energy", 
+        "sector": "n/a", 
+        "symbol": "AE"
+    }, 
+    {
+        "company": "Adcare Health Systems Inc", 
+        "industry": "Hospital/Nursing Management", 
+        "sector": "Health Care", 
+        "symbol": "ADK"
+    }, 
+    {
+        "company": "Adcare Health Systems Inc", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "ADK^A"
+    }, 
+    {
+        "company": "AeroCentury Corp.", 
+        "industry": "Diversified Commercial Services", 
+        "sector": "Technology", 
+        "symbol": "ACY"
+    }, 
+    {
+        "company": "AG&E Holdings", 
+        "industry": "Technology", 
+        "sector": "n/a", 
+        "symbol": "WGA"
+    }, 
+    {
+        "company": "Air Industries Group", 
+        "industry": "Military/Government/Technical", 
+        "sector": "Capital Goods", 
+        "symbol": "AIRI"
+    }, 
+    {
+        "company": "Alcoa Inc.", 
+        "industry": "Metal Fabrications", 
+        "sector": "Capital Goods", 
+        "symbol": "AA^"
+    }, 
+    {
+        "company": "Alderon Iron Ore Corp.", 
+        "industry": "Precious Metals", 
+        "sector": "Basic Industries", 
+        "symbol": "AXX"
+    }, 
+    {
+        "company": "Alexco Resource Corp", 
+        "industry": "Precious Metals", 
+        "sector": "Basic Industries", 
+        "symbol": "AXU"
+    }, 
+    {
+        "company": "Almaden Minerals", 
+        "industry": "Basic Industries", 
+        "sector": "n/a", 
+        "symbol": "AAU"
+    }, 
+    {
+        "company": "Alpha Pro Tech", 
+        "industry": "Health Care", 
+        "sector": "n/a", 
+        "symbol": "APT"
+    }, 
+    {
+        "company": "Alteva (D/B/A)", 
+        "industry": "Telecommunications Equipment", 
+        "sector": "Public Utilities", 
+        "symbol": "ALTV"
+    }, 
+    {
+        "company": "Altisource Asset Management Corp", 
+        "industry": "Real Estate", 
+        "sector": "Finance", 
+        "symbol": "AAMC"
+    }, 
+    {
+        "company": "AMCON Distributing Company", 
+        "industry": "Food Distributors", 
+        "sector": "Consumer Non-Durables", 
+        "symbol": "DIT"
+    }, 
+    {
+        "company": "American Apparel Inc", 
+        "industry": "Business Services", 
+        "sector": "Finance", 
+        "symbol": "APP"
+    }, 
+    {
+        "company": "American DG Energy Inc.", 
+        "industry": "Electric Utilities: Central", 
+        "sector": "Energy", 
+        "symbol": "ADGE"
+    }, 
+    {
+        "company": "American Lorain Corporation", 
+        "industry": "Packaged Foods", 
+        "sector": "Consumer Non-Durables", 
+        "symbol": "ALN"
+    }, 
+    {
+        "company": "American Shared Hospital Services", 
+        "industry": "Medical Specialities", 
+        "sector": "Health Care", 
+        "symbol": "AMS"
+    }, 
+    {
+        "company": "Ampio Pharmaceuticals", 
+        "industry": "Health Care", 
+        "sector": "n/a", 
+        "symbol": "AMPE"
+    }, 
+    {
+        "company": "Aoxing Pharmaceutical Company", 
+        "industry": "Health Care", 
+        "sector": "n/a", 
+        "symbol": "AXN"
+    }, 
+    {
+        "company": "Armco Metals Holdings", 
+        "industry": "Consumer Durables", 
+        "sector": "n/a", 
+        "symbol": "AMCO"
+    }, 
+    {
+        "company": "Arrhythmia Research Technology Inc.", 
+        "industry": "Biotechnology: Electromedical & Electrotherapeutic Apparatus", 
+        "sector": "Health Care", 
+        "symbol": "HRT"
+    }, 
+    {
+        "company": "Asanko Gold Inc.", 
+        "industry": "Mining & Quarrying of Nonmetallic Minerals (No Fuels)", 
+        "sector": "Basic Industries", 
+        "symbol": "AKG"
+    }, 
+    {
+        "company": "Ashford Inc.", 
+        "industry": "Professional Services", 
+        "sector": "Consumer Services", 
+        "symbol": "AINC"
+    }, 
+    {
+        "company": "Associated Banc-Corp", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "ASB/WS"
+    }, 
+    {
+        "company": "Asterias Biotherapeutics", 
+        "industry": "Health Care", 
+        "sector": "n/a", 
+        "symbol": "AST"
+    }, 
+    {
+        "company": "Atlatsa Resources Corporation", 
+        "industry": "Precious Metals", 
+        "sector": "Basic Industries", 
+        "symbol": "ATL"
+    }, 
+    {
+        "company": "Avalon Holdings Corporation", 
+        "industry": "Environmental Services", 
+        "sector": "Public Utilities", 
+        "symbol": "AWX"
+    }, 
+    {
+        "company": "Avalon Rare Metals", 
+        "industry": "Basic Industries", 
+        "sector": "n/a", 
+        "symbol": "AVL"
+    }, 
+    {
+        "company": "Avino Silver", 
+        "industry": "Precious Metals", 
+        "sector": "Basic Industries", 
+        "symbol": "ASM"
+    }, 
+    {
+        "company": "B2Gold Corp", 
+        "industry": "Precious Metals", 
+        "sector": "Basic Industries", 
+        "symbol": "BTG"
+    }, 
+    {
+        "company": "Ballantyne Strong", 
+        "industry": "Miscellaneous", 
+        "sector": "n/a", 
+        "symbol": "BTN"
+    }, 
+    {
+        "company": "Bancorp of New Jersey", 
+        "industry": "Finance", 
+        "sector": "n/a", 
+        "symbol": "BKJ"
+    }, 
+    {
+        "company": "Bancroft Fund Limited", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "BCV"
+    }, 
+    {
+        "company": "BANRO CORPORATION", 
+        "industry": "Precious Metals", 
+        "sector": "Basic Industries", 
+        "symbol": "BAA"
+    }, 
+    {
+        "company": "Bar Harbor Bankshares", 
+        "industry": "Finance", 
+        "sector": "n/a", 
+        "symbol": "BHB"
+    }, 
+    {
+        "company": "Barnwell Industries", 
+        "industry": "Energy", 
+        "sector": "n/a", 
+        "symbol": "BRN"
+    }, 
+    {
+        "company": "Berkshire Income Realty", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "BIR^A"
+    }, 
+    {
+        "company": "BG Staffing Inc", 
+        "industry": "Professional Services", 
+        "sector": "Technology", 
+        "symbol": "BGSF"
+    }, 
+    {
+        "company": "BioTime", 
+        "industry": "Health Care", 
+        "sector": "n/a", 
+        "symbol": "BTX"
+    }, 
+    {
+        "company": "BioTime", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "BTX/WS"
+    }, 
+    {
+        "company": "Birks Group Inc.", 
+        "industry": "Consumer Specialties", 
+        "sector": "Consumer Services", 
+        "symbol": "BGI"
+    }, 
+    {
+        "company": "BlackRock Maryland Municipal Bond Trust", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "BZM"
+    }, 
+    {
+        "company": "BlackRock Massachusetts Tax-Exempt Trust", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "MHE"
+    }, 
+    {
+        "company": "BlackRock Municipal Income Trust II", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "BLE"
+    }, 
+    {
+        "company": "Blackrock New Jersey Municipal Bond Trust", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "BLJ"
+    }, 
+    {
+        "company": "BlackRock New York Municipal Income Trust II", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "BFY"
+    }, 
+    {
+        "company": "BlackRock Virginia Municipal Bond Trust", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "BHV"
+    }, 
+    {
+        "company": "Blonder Tongue Laboratories", 
+        "industry": "Technology", 
+        "sector": "n/a", 
+        "symbol": "BDR"
+    }, 
+    {
+        "company": "Bluerock Residential Growth REIT", 
+        "industry": "Consumer Services", 
+        "sector": "2014", 
+        "symbol": "BRG"
+    }, 
+    {
+        "company": "Bovie Medical Corporation", 
+        "industry": "Medical/Dental Instruments", 
+        "sector": "Health Care", 
+        "symbol": "BVX"
+    }, 
+    {
+        "company": "Bowl America", 
+        "industry": "Consumer Services", 
+        "sector": "n/a", 
+        "symbol": "BWL/A"
+    }, 
+    {
+        "company": "Breeze-Eastern Corporation", 
+        "industry": "Military/Government/Technical", 
+        "sector": "Capital Goods", 
+        "symbol": "BZC"
+    }, 
+    {
+        "company": "British American Tobacco p.l.c.", 
+        "industry": "Farming/Seeds/Milling", 
+        "sector": "Consumer Non-Durables", 
+        "symbol": "BTI"
+    }, 
+    {
+        "company": "Can-Fite Biopharma Ltd", 
+        "industry": "Major Pharmaceuticals", 
+        "sector": "Health Care", 
+        "symbol": "CANF"
+    }, 
+    {
+        "company": "Castle Brands", 
+        "industry": "Consumer Non-Durables", 
+        "sector": "2006", 
+        "symbol": "ROX"
+    }, 
+    {
+        "company": "CCA Industries", 
+        "industry": "Consumer Non-Durables", 
+        "sector": "n/a", 
+        "symbol": "CAW"
+    }, 
+    {
+        "company": "Cel-Sci Corporation", 
+        "industry": "Biotechnology: Biological Products (No Diagnostic Substances)", 
+        "sector": "Health Care", 
+        "symbol": "CVM"
+    }, 
+    {
+        "company": "Cel-Sci Corporation", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "CVM/WS"
+    }, 
+    {
+        "company": "Central Fund of Canada Limited", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "CEF"
+    }, 
+    {
+        "company": "Central Gold Trust", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "GTU"
+    }, 
+    {
+        "company": "Central Securities Corporation", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "CET"
+    }, 
+    {
+        "company": "Centrus Energy Corp.", 
+        "industry": "Mining & Quarrying of Nonmetallic Minerals (No Fuels)", 
+        "sector": "Basic Industries", 
+        "symbol": "LEU"
+    }, 
+    {
+        "company": "Chase Corporation", 
+        "industry": "Building Products", 
+        "sector": "Consumer Durables", 
+        "symbol": "CCF"
+    }, 
+    {
+        "company": "Cheniere Energy Partners LP Holdings", 
+        "industry": "Public Utilities", 
+        "sector": "2013", 
+        "symbol": "CQH"
+    }, 
+    {
+        "company": "Cheniere Energy Partners", 
+        "industry": "Public Utilities", 
+        "sector": "2007", 
+        "symbol": "CQP"
+    }, 
+    {
+        "company": "Cheniere Energy", 
+        "industry": "Public Utilities", 
+        "sector": "n/a", 
+        "symbol": "LNG"
+    }, 
+    {
+        "company": "Chicago Rivet & Machine Co.", 
+        "industry": "Industrial Machinery/Components", 
+        "sector": "Technology", 
+        "symbol": "CVR"
+    }, 
+    {
+        "company": "China Metro-Rural Holdings Limited", 
+        "industry": "Real Estate", 
+        "sector": "Finance", 
+        "symbol": "CNR"
+    }, 
+    {
+        "company": "China Pharma Holdings", 
+        "industry": "Health Care", 
+        "sector": "n/a", 
+        "symbol": "CPHI"
+    }, 
+    {
+        "company": "CKX Lands", 
+        "industry": "Energy", 
+        "sector": "n/a", 
+        "symbol": "CKX"
+    }, 
+    {
+        "company": "Clough Global Allocation Fund", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "GLV"
+    }, 
+    {
+        "company": "Clough Global Equity Fund", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "GLQ"
+    }, 
+    {
+        "company": "Clough Global Opportunities Fund", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "GLO"
+    }, 
+    {
+        "company": "Coast Distribution System", 
+        "industry": "Capital Goods", 
+        "sector": "n/a", 
+        "symbol": "CRV"
+    }, 
+    {
+        "company": "Command Security Corporation", 
+        "industry": "Diversified Commercial Services", 
+        "sector": "Consumer Services", 
+        "symbol": "MOC"
+    }, 
+    {
+        "company": "CompX International Inc.", 
+        "industry": "Industrial Machinery/Components", 
+        "sector": "Capital Goods", 
+        "symbol": "CIX"
+    }, 
+    {
+        "company": "Comstock Mining", 
+        "industry": "Basic Industries", 
+        "sector": "n/a", 
+        "symbol": "LODE"
+    }, 
+    {
+        "company": "Consolidated-Tomoka Land Co.", 
+        "industry": "Real Estate", 
+        "sector": "Finance", 
+        "symbol": "CTO"
+    }, 
+    {
+        "company": "Contango Oil & Gas Company", 
+        "industry": "Oil & Gas Production", 
+        "sector": "Energy", 
+        "symbol": "MCF"
+    }, 
+    {
+        "company": "Continental Materials Corporation", 
+        "industry": "Building Materials", 
+        "sector": "Capital Goods", 
+        "symbol": "CUO"
+    }, 
+    {
+        "company": "Core Molding Technologies Inc", 
+        "industry": "Plastic Products", 
+        "sector": "Consumer Non-Durables", 
+        "symbol": "CMT"
+    }, 
+    {
+        "company": "Corindus Vascular Robotics", 
+        "industry": "n/a", 
+        "sector": "2015", 
+        "symbol": "CVRS"
+    }, 
+    {
+        "company": "CorMedix Inc", 
+        "industry": "Major Pharmaceuticals", 
+        "sector": "Health Care", 
+        "symbol": "CRMD"
+    }, 
+    {
+        "company": "Cornerstone Progressive Return Fund", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "CFP"
+    }, 
+    {
+        "company": "Cornerstone Strategic Return Fund", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "CRF"
+    }, 
+    {
+        "company": "Cornerstone Strategic Value Fund", 
+        "industry": "n/a", 
+        "sector": "1987", 
+        "symbol": "CLM"
+    }, 
+    {
+        "company": "Cover-All Technologies Inc.", 
+        "industry": "Computer Software: Prepackaged Software", 
+        "sector": "Technology", 
+        "symbol": "COVR"
+    }, 
+    {
+        "company": "CPI Aerostructures", 
+        "industry": "Capital Goods", 
+        "sector": "n/a", 
+        "symbol": "CVU"
+    }, 
+    {
+        "company": "Credit Suisse Asset Management Income Fund", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "CIK"
+    }, 
+    {
+        "company": "Credit Suisse High Yield Bond Fund", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "DHY"
+    }, 
+    {
+        "company": "Crystal Rock Holdings", 
+        "industry": "Consumer Non-Durables", 
+        "sector": "n/a", 
+        "symbol": "CRVP"
+    }, 
+    {
+        "company": "CTPartners Executive Search Inc.", 
+        "industry": "Diversified Commercial Services", 
+        "sector": "Technology", 
+        "symbol": "CTP"
+    }, 
+    {
+        "company": "CVSL Inc.", 
+        "industry": "Other Consumer Services", 
+        "sector": "Consumer Services", 
+        "symbol": "CVSL"
+    }, 
+    {
+        "company": "Dakota Plains Holdings", 
+        "industry": "Energy", 
+        "sector": "n/a", 
+        "symbol": "DAKP"
+    }, 
+    {
+        "company": "Daxor Corporation", 
+        "industry": "Medical/Dental Instruments", 
+        "sector": "Health Care", 
+        "symbol": "DXR"
+    }, 
+    {
+        "company": "Dejour Energy Inc.", 
+        "industry": "Oil & Gas Production", 
+        "sector": "Energy", 
+        "symbol": "DEJ"
+    }, 
+    {
+        "company": "Delaware Investments Colorado Municipal Income Fund", 
+        "industry": "n/a", 
+        "sector": "1993", 
+        "symbol": "VCF"
+    }, 
+    {
+        "company": "Delaware Investments Florida Insured Municipal Income Fund", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "VFL"
+    }, 
+    {
+        "company": "Delaware Investments Minnesota Municipal Income Fund II", 
+        "industry": "n/a", 
+        "sector": "1993", 
+        "symbol": "VMM"
+    }, 
+    {
+        "company": "Delta Apparel", 
+        "industry": "Consumer Non-Durables", 
+        "sector": "n/a", 
+        "symbol": "DLA"
+    }, 
+    {
+        "company": "Denison Mine Corp", 
+        "industry": "Precious Metals", 
+        "sector": "Basic Industries", 
+        "symbol": "DNN"
+    }, 
+    {
+        "company": "DGSE Companies", 
+        "industry": "Consumer Services", 
+        "sector": "n/a", 
+        "symbol": "DGSE"
+    }, 
+    {
+        "company": "Digital Power Corporation", 
+        "industry": "Industrial Machinery/Components", 
+        "sector": "Capital Goods", 
+        "symbol": "DPW"
+    }, 
+    {
+        "company": "Document Security Systems", 
+        "industry": "Technology", 
+        "sector": "n/a", 
+        "symbol": "DSS"
+    }, 
+    {
+        "company": "Dreyfus Municipal Income", 
+        "industry": "n/a", 
+        "sector": "1988", 
+        "symbol": "DMF"
+    }, 
+    {
+        "company": "Eagle Capital Growth Fund", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "GRF"
+    }, 
+    {
+        "company": "Earthstone Energy", 
+        "industry": "Energy", 
+        "sector": "n/a", 
+        "symbol": "ESTE"
+    }, 
+    {
+        "company": "Eaton Vance California Municipal Bond Fund", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "EVM"
+    }, 
+    {
+        "company": "Eaton Vance California Municipal Bond Fund II", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "EIA"
+    }, 
+    {
+        "company": "Eaton Vance California Municipal Income Trust", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "CEV"
+    }, 
+    {
+        "company": "Eaton Vance Limited Duration Income Fund", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "EVV"
+    }, 
+    {
+        "company": "Eaton Vance Massachusetts Municipal Bond Fund", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "MAB"
+    }, 
+    {
+        "company": "Eaton Vance Massachusetts Municipal Income Trust", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "MMV"
+    }, 
+    {
+        "company": "Eaton Vance Michigan Municipal Bond Fund", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "MIW"
+    }, 
+    {
+        "company": "Eaton Vance Michigan Municipal Income Trust", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "EMI"
+    }, 
+    {
+        "company": "Eaton Vance Municipal Bond Fund", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "EIM"
+    }, 
+    {
+        "company": "Eaton Vance Municipal Bond Fund II", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "EIV"
+    }, 
+    {
+        "company": "Eaton Vance New Jersey Municipal Bond Fund", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "EMJ"
+    }, 
+    {
+        "company": "Eaton Vance New Jersey Municipal Income Trust", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "EVJ"
+    }, 
+    {
+        "company": "Eaton Vance New York Municipal Bond Fund", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "ENX"
+    }, 
+    {
+        "company": "Eaton Vance New York Municipal Bond Fund II", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "NYH"
+    }, 
+    {
+        "company": "Eaton Vance New York Municipal Income Trust", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "EVY"
+    }, 
+    {
+        "company": "Eaton Vance Ohio Municipal Bond Fund", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "EIO"
+    }, 
+    {
+        "company": "Eaton Vance Ohio Municipal Income Trust", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "EVO"
+    }, 
+    {
+        "company": "Eaton Vance Pennsylvania Municipal Bond Fund", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "EIP"
+    }, 
+    {
+        "company": "Eaton Vance Pennsylvania Municipal Income Trust", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "EVP"
+    }, 
+    {
+        "company": "Electromed", 
+        "industry": "Health Care", 
+        "sector": "2011", 
+        "symbol": "ELMD"
+    }, 
+    {
+        "company": "Elephant Talk Communications Corp.", 
+        "industry": "Telecommunications Equipment", 
+        "sector": "Public Utilities", 
+        "symbol": "ETAK"
+    }, 
+    {
+        "company": "Ellomay Capital Ltd.", 
+        "industry": "Electric Utilities: Central", 
+        "sector": "Public Utilities", 
+        "symbol": "ELLO"
+    }, 
+    {
+        "company": "Ellsworth Growth and Income Fund Ltd.", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "ECF"
+    }, 
+    {
+        "company": "eMagin Corporation", 
+        "industry": "Semiconductors", 
+        "sector": "Technology", 
+        "symbol": "EMAN"
+    }, 
+    {
+        "company": "Emerald Oil", 
+        "industry": "Energy", 
+        "sector": "n/a", 
+        "symbol": "EOX"
+    }, 
+    {
+        "company": "Emerson Radio Corporation", 
+        "industry": "Consumer Electronics/Appliances", 
+        "sector": "Consumer Non-Durables", 
+        "symbol": "MSN"
+    }, 
+    {
+        "company": "Energy Fuels Inc", 
+        "industry": "Mining & Quarrying of Nonmetallic Minerals (No Fuels)", 
+        "sector": "Basic Industries", 
+        "symbol": "UUUU"
+    }, 
+    {
+        "company": "EnerJex Resources", 
+        "industry": "Energy", 
+        "sector": "n/a", 
+        "symbol": "ENRJ"
+    }, 
+    {
+        "company": "EnerJex Resources", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "ENRJ^"
+    }, 
+    {
+        "company": "ENSERVCO Corporation", 
+        "industry": "Oilfield Services/Equipment", 
+        "sector": "Energy", 
+        "symbol": "ENSV"
+    }, 
+    {
+        "company": "Entree Gold Inc", 
+        "industry": "Precious Metals", 
+        "sector": "Basic Industries", 
+        "symbol": "EGI"
+    }, 
+    {
+        "company": "EnviroStarm", 
+        "industry": "Consumer Services", 
+        "sector": "n/a", 
+        "symbol": "EVI"
+    }, 
+    {
+        "company": "ERBA Diagnostics", 
+        "industry": "Health Care", 
+        "sector": "n/a", 
+        "symbol": "ERB"
+    }, 
+    {
+        "company": "Erin Energy Corp.", 
+        "industry": "Oil & Gas Production", 
+        "sector": "Energy", 
+        "symbol": "ERN"
+    }, 
+    {
+        "company": "Espey Mfg. & Electronics Corp.", 
+        "industry": "Industrial Machinery/Components", 
+        "sector": "Capital Goods", 
+        "symbol": "ESP"
+    }, 
+    {
+        "company": "Eurasian Minerals Inc.", 
+        "industry": "Precious Metals", 
+        "sector": "Basic Industries", 
+        "symbol": "EMXX"
+    }, 
+    {
+        "company": "Evans Bancorp", 
+        "industry": "Finance", 
+        "sector": "n/a", 
+        "symbol": "EVBN"
+    }, 
+    {
+        "company": "Evolution Petroleum Corporation", 
+        "industry": "Energy", 
+        "sector": "n/a", 
+        "symbol": "EPM"
+    }, 
+    {
+        "company": "Evolution Petroleum Corporation", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "EPM^A"
+    }, 
+    {
+        "company": "Exeter Resource Corporation", 
+        "industry": "Mining & Quarrying of Nonmetallic Minerals (No Fuels)", 
+        "sector": "Basic Industries", 
+        "symbol": "XRA"
+    }, 
+    {
+        "company": "Farmland Partners Inc.", 
+        "industry": "Real Estate Investment Trusts", 
+        "sector": "Consumer Services", 
+        "symbol": "FPI"
+    }, 
+    {
+        "company": "FieldPoint Petroleum Corporation", 
+        "industry": "Oil & Gas Production", 
+        "sector": "Energy", 
+        "symbol": "FPP"
+    }, 
+    {
+        "company": "FieldPoint Petroleum Corporation", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "FPP/WS"
+    }, 
+    {
+        "company": "First Trust Energy Income and Growth Fund", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "FEN"
+    }, 
+    {
+        "company": "First West Virginia Bancorp", 
+        "industry": "Finance", 
+        "sector": "n/a", 
+        "symbol": "FWV"
+    }, 
+    {
+        "company": "Flanigan&#39;s Enterprises", 
+        "industry": "Consumer Services", 
+        "sector": "n/a", 
+        "symbol": "BDL"
+    }, 
+    {
+        "company": "Flexible Solutions International Inc.", 
+        "industry": "Major Chemicals", 
+        "sector": "Basic Industries", 
+        "symbol": "FSI"
+    }, 
+    {
+        "company": "Franklin Limited Duration Income Trust", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "FTF"
+    }, 
+    {
+        "company": "Franklin Street Properties Corp.", 
+        "industry": "Real Estate Investment Trusts", 
+        "sector": "Consumer Services", 
+        "symbol": "FSP"
+    }, 
+    {
+        "company": "Friedman Industries Inc.", 
+        "industry": "Steel/Iron Ore", 
+        "sector": "Capital Goods", 
+        "symbol": "FRD"
+    }, 
+    {
+        "company": "Frisch&#39;s Restaurants", 
+        "industry": "Consumer Services", 
+        "sector": "n/a", 
+        "symbol": "FRS"
+    }, 
+    {
+        "company": "GAMCO Global Gold", 
+        "industry": "n/a", 
+        "sector": "2005", 
+        "symbol": "GGN"
+    }, 
+    {
+        "company": "GAMCO Global Gold", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "GGN^B"
+    }, 
+    {
+        "company": "Gas Natural Inc.", 
+        "industry": "Oil/Gas Transmission", 
+        "sector": "Public Utilities", 
+        "symbol": "EGAS"
+    }, 
+    {
+        "company": "Gastar Exploration Inc.", 
+        "industry": "Oil & Gas Production", 
+        "sector": "Energy", 
+        "symbol": "GST"
+    }, 
+    {
+        "company": "Gastar Exploration Inc.", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "GST^A"
+    }, 
+    {
+        "company": "Gastar Exploration Inc.", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "GST^B"
+    }, 
+    {
+        "company": "General Employment Enterprises", 
+        "industry": "Technology", 
+        "sector": "n/a", 
+        "symbol": "JOB"
+    }, 
+    {
+        "company": "General Moly", 
+        "industry": "Basic Industries", 
+        "sector": "n/a", 
+        "symbol": "GMO"
+    }, 
+    {
+        "company": "GigOptix", 
+        "industry": "Technology", 
+        "sector": "n/a", 
+        "symbol": "GIG"
+    }, 
+    {
+        "company": "GlobalSCAPE", 
+        "industry": "Technology", 
+        "sector": "n/a", 
+        "symbol": "GSB"
+    }, 
+    {
+        "company": "Globalstar", 
+        "industry": "Consumer Services", 
+        "sector": "2006", 
+        "symbol": "GSAT"
+    }, 
+    {
+        "company": "Glowpoint", 
+        "industry": "Public Utilities", 
+        "sector": "n/a", 
+        "symbol": "GLOW"
+    }, 
+    {
+        "company": "Gold Resource Corporation", 
+        "industry": "Precious Metals", 
+        "sector": "Basic Industries", 
+        "symbol": "GORO"
+    }, 
+    {
+        "company": "Gold Standard Ventures Corporation", 
+        "industry": "Mining & Quarrying of Nonmetallic Minerals (No Fuels)", 
+        "sector": "Basic Industries", 
+        "symbol": "GSV"
+    }, 
+    {
+        "company": "Golden Minerals Company", 
+        "industry": "Precious Metals", 
+        "sector": "Basic Industries", 
+        "symbol": "AUMN"
+    }, 
+    {
+        "company": "Golden Star Resources", 
+        "industry": "Basic Industries", 
+        "sector": "n/a", 
+        "symbol": "GSS"
+    }, 
+    {
+        "company": "Goldfield Corporation (The)", 
+        "industry": "Water Supply", 
+        "sector": "Basic Industries", 
+        "symbol": "GV"
+    }, 
+    {
+        "company": "Gorman-Rupp Company (The)", 
+        "industry": "Fluid Controls", 
+        "sector": "Capital Goods", 
+        "symbol": "GRC"
+    }, 
+    {
+        "company": "Gran Tierra Energy Inc.", 
+        "industry": "Oil & Gas Production", 
+        "sector": "Energy", 
+        "symbol": "GTE"
+    }, 
+    {
+        "company": "Great Panther Silver Limited", 
+        "industry": "Precious Metals", 
+        "sector": "Basic Industries", 
+        "symbol": "GPL"
+    }, 
+    {
+        "company": "GreenHunter Resources", 
+        "industry": "Basic Industries", 
+        "sector": "n/a", 
+        "symbol": "GRH"
+    }, 
+    {
+        "company": "GreenHunter Resources", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "GRH^C"
+    }, 
+    {
+        "company": "Grupo Simec", 
+        "industry": "Basic Industries", 
+        "sector": "1993", 
+        "symbol": "SIM"
+    }, 
+    {
+        "company": "GSE Systems", 
+        "industry": "Technology", 
+        "sector": "n/a", 
+        "symbol": "GVP"
+    }, 
+    {
+        "company": "HC2 Holdings", 
+        "industry": "Public Utilities", 
+        "sector": "n/a", 
+        "symbol": "HCHC"
+    }, 
+    {
+        "company": "Hemispherx BioPharma", 
+        "industry": "Health Care", 
+        "sector": "n/a", 
+        "symbol": "HEB"
+    }, 
+    {
+        "company": "Hillman Group Capital Trust", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "HLM^"
+    }, 
+    {
+        "company": "HMG/Courtland Properties", 
+        "industry": "Consumer Services", 
+        "sector": "n/a", 
+        "symbol": "HMG"
+    }, 
+    {
+        "company": "Hooper Holmes", 
+        "industry": "Health Care", 
+        "sector": "n/a", 
+        "symbol": "HH"
+    }, 
+    {
+        "company": "Houston American Energy Corporation", 
+        "industry": "Oil & Gas Production", 
+        "sector": "Energy", 
+        "symbol": "HUSA"
+    }, 
+    {
+        "company": "iBio", 
+        "industry": "Health Care", 
+        "sector": "n/a", 
+        "symbol": "IBIO"
+    }, 
+    {
+        "company": "IBO (Listing Market - NYSE Amex Network B F)", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "IBO"
+    }, 
+    {
+        "company": "IDI", 
+        "industry": "Consumer Services", 
+        "sector": "n/a", 
+        "symbol": "IDI"
+    }, 
+    {
+        "company": "IEC Electronics Corp.", 
+        "industry": "Electrical Products", 
+        "sector": "Technology", 
+        "symbol": "IEC"
+    }, 
+    {
+        "company": "IGI Laboratories", 
+        "industry": "Health Care", 
+        "sector": "n/a", 
+        "symbol": "IG"
+    }, 
+    {
+        "company": "ImmunoCellular Therapeutics", 
+        "industry": "Health Care", 
+        "sector": "n/a", 
+        "symbol": "IMUC"
+    }, 
+    {
+        "company": "Impac Mortgage Holdings", 
+        "industry": "Consumer Services", 
+        "sector": "1997", 
+        "symbol": "IMH"
+    }, 
+    {
+        "company": "Imperial Oil Limited", 
+        "industry": "Integrated oil Companies", 
+        "sector": "Energy", 
+        "symbol": "IMO"
+    }, 
+    {
+        "company": "Income Opportunity Realty Investors", 
+        "industry": "Consumer Services", 
+        "sector": "n/a", 
+        "symbol": "IOT"
+    }, 
+    {
+        "company": "Independence Realty Trust", 
+        "industry": "Consumer Services", 
+        "sector": "2013", 
+        "symbol": "IRT"
+    }, 
+    {
+        "company": "India Globalization Capital Inc.", 
+        "industry": "Precious Metals", 
+        "sector": "Basic Industries", 
+        "symbol": "IGC"
+    }, 
+    {
+        "company": "India Globalization Capital Inc.", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "IGC/WS"
+    }, 
+    {
+        "company": "InfuSystems Holdings", 
+        "industry": "Health Care", 
+        "sector": "n/a", 
+        "symbol": "INFU"
+    }, 
+    {
+        "company": "InnSuites Hospitality Trust", 
+        "industry": "Real Estate Investment Trusts", 
+        "sector": "Consumer Services", 
+        "symbol": "IHT"
+    }, 
+    {
+        "company": "InspireMD", 
+        "industry": "Health Care", 
+        "sector": "n/a", 
+        "symbol": "NSPR"
+    }, 
+    {
+        "company": "Institutional Financial Markets", 
+        "industry": "Finance", 
+        "sector": "n/a", 
+        "symbol": "IFMI"
+    }, 
+    {
+        "company": "Intellicheck Mobilisa", 
+        "industry": "Technology", 
+        "sector": "1999", 
+        "symbol": "IDN"
+    }, 
+    {
+        "company": "Intelligent Systems Corporation", 
+        "industry": "Metal Fabrications", 
+        "sector": "Capital Goods", 
+        "symbol": "INS"
+    }, 
+    {
+        "company": "International Tower Hill Mines Ltd", 
+        "industry": "Precious Metals", 
+        "sector": "Basic Industries", 
+        "symbol": "THM"
+    }, 
+    {
+        "company": "inTest Corporation", 
+        "industry": "Electrical Products", 
+        "sector": "Capital Goods", 
+        "symbol": "INTT"
+    }, 
+    {
+        "company": "Inuvo", 
+        "industry": "Consumer Services", 
+        "sector": "n/a", 
+        "symbol": "INUV"
+    }, 
+    {
+        "company": "Invesco Advantage Municipal Income Trust II", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "VKI"
+    }, 
+    {
+        "company": "IsoRay", 
+        "industry": "Health Care", 
+        "sector": "n/a", 
+        "symbol": "ISR"
+    }, 
+    {
+        "company": "Issuer Direct Corporation", 
+        "industry": "Publishing", 
+        "sector": "Miscellaneous", 
+        "symbol": "ISDR"
+    }, 
+    {
+        "company": "Iteris", 
+        "industry": "Consumer Durables", 
+        "sector": "n/a", 
+        "symbol": "ITI"
+    }, 
+    {
+        "company": "Kelso Technologies Inc", 
+        "industry": "Railroads", 
+        "sector": "Capital Goods", 
+        "symbol": "KIQ"
+    }, 
+    {
+        "company": "Ladenburg Thalmann Financial Services Inc", 
+        "industry": "Investment Bankers/Brokers/Service", 
+        "sector": "Finance", 
+        "symbol": "LTS"
+    }, 
+    {
+        "company": "Ladenburg Thalmann Financial Services Inc", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "LTS^A"
+    }, 
+    {
+        "company": "Lake Shore Gold Corp", 
+        "industry": "Precious Metals", 
+        "sector": "Basic Industries", 
+        "symbol": "LSG"
+    }, 
+    {
+        "company": "Latin America Equity Fund", 
+        "industry": "n/a", 
+        "sector": "1991", 
+        "symbol": "LAQ"
+    }, 
+    {
+        "company": "LGL Group", 
+        "industry": "Capital Goods", 
+        "sector": "n/a", 
+        "symbol": "LGL"
+    }, 
+    {
+        "company": "LGL Group", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "LGL/WS"
+    }, 
+    {
+        "company": "Libbey", 
+        "industry": "Capital Goods", 
+        "sector": "1993", 
+        "symbol": "LBY"
+    }, 
+    {
+        "company": "Liberator Medical Holdings", 
+        "industry": "Health Care", 
+        "sector": "n/a", 
+        "symbol": "LBMH"
+    }, 
+    {
+        "company": "LiqTech International", 
+        "industry": "Technology", 
+        "sector": "n/a", 
+        "symbol": "LIQT"
+    }, 
+    {
+        "company": "Lucas Energy", 
+        "industry": "Energy", 
+        "sector": "n/a", 
+        "symbol": "LEI"
+    }, 
+    {
+        "company": "Mad Catz Interactive Inc", 
+        "industry": "Recreational Products/Toys", 
+        "sector": "Consumer Non-Durables", 
+        "symbol": "MCZ"
+    }, 
+    {
+        "company": "Mag Silver Corporation", 
+        "industry": "Precious Metals", 
+        "sector": "Basic Industries", 
+        "symbol": "MVG"
+    }, 
+    {
+        "company": "Magnum Hunter Resources Corporation", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "MHR^C"
+    }, 
+    {
+        "company": "Magnum Hunter Resources Corporation", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "MHR^D"
+    }, 
+    {
+        "company": "Magnum Hunter Resources Corporation", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "MHR^E"
+    }, 
+    {
+        "company": "Mast Therapeutics", 
+        "industry": "Health Care", 
+        "sector": "n/a", 
+        "symbol": "MSTX"
+    }, 
+    {
+        "company": "Mastech Holdings", 
+        "industry": "Consumer Services", 
+        "sector": "n/a", 
+        "symbol": "MHH"
+    }, 
+    {
+        "company": "Medgenics", 
+        "industry": "Health Care", 
+        "sector": "2011", 
+        "symbol": "MDGN"
+    }, 
+    {
+        "company": "Medgenics", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "MDGN/WS"
+    }, 
+    {
+        "company": "Merrill Lynch & Co.", 
+        "industry": "Finance", 
+        "sector": "n/a", 
+        "symbol": "IPB"
+    }, 
+    {
+        "company": "Metalico Inc", 
+        "industry": "Metal Fabrications", 
+        "sector": "Basic Industries", 
+        "symbol": "MEA"
+    }, 
+    {
+        "company": "Mexco Energy Corporation", 
+        "industry": "Oil & Gas Production", 
+        "sector": "Energy", 
+        "symbol": "MXC"
+    }, 
+    {
+        "company": "MFS California Insured Municipal Trust", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "CCA"
+    }, 
+    {
+        "company": "MGT Capital Investments Inc", 
+        "industry": "Multi-Sector Companies", 
+        "sector": "Miscellaneous", 
+        "symbol": "MGT"
+    }, 
+    {
+        "company": "Midway Gold Corporation", 
+        "industry": "Precious Metals", 
+        "sector": "Basic Industries", 
+        "symbol": "MDW"
+    }, 
+    {
+        "company": "Milestone Scientific", 
+        "industry": "n/a", 
+        "sector": "2015", 
+        "symbol": "MLSS"
+    }, 
+    {
+        "company": "Minco Gold Corporation", 
+        "industry": "Precious Metals", 
+        "sector": "Basic Industries", 
+        "symbol": "MGH"
+    }, 
+    {
+        "company": "Mines Management", 
+        "industry": "Basic Industries", 
+        "sector": "n/a", 
+        "symbol": "MGN"
+    }, 
+    {
+        "company": "MuniVest Fund", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "MVF"
+    }, 
+    {
+        "company": "MuniYield Arizona Fund", 
+        "industry": "n/a", 
+        "sector": "1993", 
+        "symbol": "MZA"
+    }, 
+    {
+        "company": "NanoViricides", 
+        "industry": "Health Care", 
+        "sector": "n/a", 
+        "symbol": "NNVC"
+    }, 
+    {
+        "company": "National HealthCare Corporation", 
+        "industry": "Hospital/Nursing Management", 
+        "sector": "Health Care", 
+        "symbol": "NHC"
+    }, 
+    {
+        "company": "National HealthCare Corporation", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "NHC^A"
+    }, 
+    {
+        "company": "Navidea Biopharmaceuticals", 
+        "industry": "Health Care", 
+        "sector": "n/a", 
+        "symbol": "NAVB"
+    }, 
+    {
+        "company": "Network-1 Technologies", 
+        "industry": "Technology", 
+        "sector": "n/a", 
+        "symbol": "NTIP"
+    }, 
+    {
+        "company": "Neuberger Berman California Intermediate Municipal Fund Inc.", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "NBW"
+    }, 
+    {
+        "company": "Neuberger Berman High Yield Strategies Fund", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "NHS"
+    }, 
+    {
+        "company": "Neuberger Berman Intermediate Municipal Fund Inc.", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "NBH"
+    }, 
+    {
+        "company": "Neuberger Berman MLP Income Fund Inc.", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "NML"
+    }, 
+    {
+        "company": "Neuberger Berman New York Intermediate Municipal Fund Inc.", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "NBO"
+    }, 
+    {
+        "company": "Neuberger Berman Real Estate Securities Income Fund", 
+        "industry": "n/a", 
+        "sector": "2003", 
+        "symbol": "NRO"
+    }, 
+    {
+        "company": "Neuralstem", 
+        "industry": "Health Care", 
+        "sector": "n/a", 
+        "symbol": "CUR"
+    }, 
+    {
+        "company": "Nevada Gold & Casinos", 
+        "industry": "Consumer Services", 
+        "sector": "n/a", 
+        "symbol": "UWN"
+    }, 
+    {
+        "company": "Nevsun Resources Ltd", 
+        "industry": "Precious Metals", 
+        "sector": "Basic Industries", 
+        "symbol": "NSU"
+    }, 
+    {
+        "company": "New Concept Energy", 
+        "industry": "Energy", 
+        "sector": "n/a", 
+        "symbol": "GBR"
+    }, 
+    {
+        "company": "New England Realty Associates Limited Partnership", 
+        "industry": "Building operators", 
+        "sector": "Consumer Services", 
+        "symbol": "NEN"
+    }, 
+    {
+        "company": "NEW GOLD INC.", 
+        "industry": "Precious Metals", 
+        "sector": "Basic Industries", 
+        "symbol": "NGD"
+    }, 
+    {
+        "company": "Nobilis Health Corp.", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "HLTH"
+    }, 
+    {
+        "company": "Norsat International Inc.", 
+        "industry": "Industrial Machinery/Components", 
+        "sector": "Capital Goods", 
+        "symbol": "NSAT"
+    }, 
+    {
+        "company": "Northern Dynasty Minerals", 
+        "industry": "Basic Industries", 
+        "sector": "n/a", 
+        "symbol": "NAK"
+    }, 
+    {
+        "company": "Northern Oil and Gas", 
+        "industry": "Energy", 
+        "sector": "n/a", 
+        "symbol": "NOG"
+    }, 
+    {
+        "company": "NovaBay Pharmaceuticals", 
+        "industry": "Health Care", 
+        "sector": "2007", 
+        "symbol": "NBY"
+    }, 
+    {
+        "company": "NovaCopper Inc.", 
+        "industry": "Precious Metals", 
+        "sector": "Basic Industries", 
+        "symbol": "NCQ"
+    }, 
+    {
+        "company": "Novagold Resources Inc.", 
+        "industry": "Precious Metals", 
+        "sector": "Basic Industries", 
+        "symbol": "NG"
+    }, 
+    {
+        "company": "NTN Buzztime", 
+        "industry": "Consumer Services", 
+        "sector": "n/a", 
+        "symbol": "NTN"
+    }, 
+    {
+        "company": "Nuveen California Dividend Advantage Municipal Fund 2", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "NVX"
+    }, 
+    {
+        "company": "Nuveen California Dividend Advantage Municipal Fund 3", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "NZH"
+    }, 
+    {
+        "company": "Nuveen California Municipal Value Fund 2", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "NCB"
+    }, 
+    {
+        "company": "Nuveen Diversified Commodity Fund", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "CFD"
+    }, 
+    {
+        "company": "Nuveen Dividend Advantage Municipal Fund 2", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "NXZ"
+    }, 
+    {
+        "company": "Nuveen Dividend Advantage Municipal Fund 3", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "NZF"
+    }, 
+    {
+        "company": "Nuveen Dividend Advantage Municipal Income Fund", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "NVG"
+    }, 
+    {
+        "company": "Nuveen Long/Short Commodity Total Return Fund", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "CTF"
+    }, 
+    {
+        "company": "Nuveen Missouri Premium Income Municipal Fund", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "NOM"
+    }, 
+    {
+        "company": "Nuveen Municipal High Income Opportunity Fund", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "NMZ"
+    }, 
+    {
+        "company": "Nuveen New Jersey Municipal Value Fund", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "NJV"
+    }, 
+    {
+        "company": "Nuveen New York Dividend Advantage Municipal Fund 2", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "NXK"
+    }, 
+    {
+        "company": "Nuveen New York Municipal Value Fund 2", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "NYV"
+    }, 
+    {
+        "company": "Nuveen Pennsylvania Municipal Value Fund", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "NPN"
+    }, 
+    {
+        "company": "Nuveen Real Estate Fund", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "JRS"
+    }, 
+    {
+        "company": "Oragenics", 
+        "industry": "Health Care", 
+        "sector": "n/a", 
+        "symbol": "OGEN"
+    }, 
+    {
+        "company": "Orchids Paper Products Company", 
+        "industry": "Paper", 
+        "sector": "Basic Industries", 
+        "symbol": "TIS"
+    }, 
+    {
+        "company": "Organovo Holdings", 
+        "industry": "Health Care", 
+        "sector": "n/a", 
+        "symbol": "ONVO"
+    }, 
+    {
+        "company": "Orient Paper", 
+        "industry": "Consumer Durables", 
+        "sector": "n/a", 
+        "symbol": "ONP"
+    }, 
+    {
+        "company": "Orion Energy Systems", 
+        "industry": "Consumer Durables", 
+        "sector": "2007", 
+        "symbol": "OESX"
+    }, 
+    {
+        "company": "Overseas Shipholding Group", 
+        "industry": "Transportation", 
+        "sector": "n/a", 
+        "symbol": "OSGB"
+    }, 
+    {
+        "company": "Owens Realty Mortgage", 
+        "industry": "Consumer Services", 
+        "sector": "2013", 
+        "symbol": "ORM"
+    }, 
+    {
+        "company": "Pacholder High Yield Fund", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "PHF"
+    }, 
+    {
+        "company": "Pacific Booker Minerals Inc", 
+        "industry": "Precious Metals", 
+        "sector": "Basic Industries", 
+        "symbol": "PBM"
+    }, 
+    {
+        "company": "Pacific Gas & Electric Co.", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "PCG^A"
+    }, 
+    {
+        "company": "Pacific Gas & Electric Co.", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "PCG^B"
+    }, 
+    {
+        "company": "Pacific Gas & Electric Co.", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "PCG^C"
+    }, 
+    {
+        "company": "Pacific Gas & Electric Co.", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "PCG^D"
+    }, 
+    {
+        "company": "Pacific Gas & Electric Co.", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "PCG^E"
+    }, 
+    {
+        "company": "Pacific Gas & Electric Co.", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "PCG^G"
+    }, 
+    {
+        "company": "Pacific Gas & Electric Co.", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "PCG^H"
+    }, 
+    {
+        "company": "Pacific Gas & Electric Co.", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "PCG^I"
+    }, 
+    {
+        "company": "Palatin Technologies", 
+        "industry": "Health Care", 
+        "sector": "n/a", 
+        "symbol": "PTN"
+    }, 
+    {
+        "company": "Par Petroleum Corporation", 
+        "industry": "Oil & Gas Production", 
+        "sector": "Energy", 
+        "symbol": "PARR"
+    }, 
+    {
+        "company": "Paramount Gold Nevada Corp.", 
+        "industry": "Precious Metals", 
+        "sector": "Basic Industries", 
+        "symbol": "PZG"
+    }, 
+    {
+        "company": "Park National Corporation", 
+        "industry": "Major Banks", 
+        "sector": "Finance", 
+        "symbol": "PRK"
+    }, 
+    {
+        "company": "Pedevco Corp.", 
+        "industry": "Oil & Gas Production", 
+        "sector": "Energy", 
+        "symbol": "PED"
+    }, 
+    {
+        "company": "Pfenex Inc.", 
+        "industry": "Major Pharmaceuticals", 
+        "sector": "Health Care", 
+        "symbol": "PFNX"
+    }, 
+    {
+        "company": "PharmAthene", 
+        "industry": "Health Care", 
+        "sector": "n/a", 
+        "symbol": "PIP"
+    }, 
+    {
+        "company": "Pioneer Diversified High Income Trust", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "HNW"
+    }, 
+    {
+        "company": "Platinum Group Metals Ltd.", 
+        "industry": "Precious Metals", 
+        "sector": "Basic Industries", 
+        "symbol": "PLG"
+    }, 
+    {
+        "company": "Polymet Mining Corp.", 
+        "industry": "Precious Metals", 
+        "sector": "Basic Industries", 
+        "symbol": "PLM"
+    }, 
+    {
+        "company": "Power REIT", 
+        "industry": "Real Estate Investment Trusts", 
+        "sector": "Consumer Services", 
+        "symbol": "PW"
+    }, 
+    {
+        "company": "Power REIT", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "PW^A"
+    }, 
+    {
+        "company": "Preferred Apartment Communities", 
+        "industry": "Consumer Services", 
+        "sector": "2011", 
+        "symbol": "APTS"
+    }, 
+    {
+        "company": "Protalix BioTherapeutics", 
+        "industry": "Health Care", 
+        "sector": "n/a", 
+        "symbol": "PLX"
+    }, 
+    {
+        "company": "Provectus Biopharmaceuticals", 
+        "industry": "Health Care", 
+        "sector": "n/a", 
+        "symbol": "PVCT"
+    }, 
+    {
+        "company": "Radiant Logistics", 
+        "industry": "Transportation", 
+        "sector": "n/a", 
+        "symbol": "RLGT"
+    }, 
+    {
+        "company": "Radiant Logistics", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "RLGT^A"
+    }, 
+    {
+        "company": "Rare Element Resources Ltd.", 
+        "industry": "Precious Metals", 
+        "sector": "Basic Industries", 
+        "symbol": "REE"
+    }, 
+    {
+        "company": "Reaves Utility Income Fund", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "UTG"
+    }, 
+    {
+        "company": "Reeds", 
+        "industry": "Consumer Non-Durables", 
+        "sector": "n/a", 
+        "symbol": "REED"
+    }, 
+    {
+        "company": "RELM Wireless Corporation", 
+        "industry": "Radio And Television Broadcasting And Communications Equipment", 
+        "sector": "Technology", 
+        "symbol": "RWC"
+    }, 
+    {
+        "company": "RENN Fund", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "RCG"
+    }, 
+    {
+        "company": "Retractable Technologies", 
+        "industry": "Health Care", 
+        "sector": "n/a", 
+        "symbol": "RVP"
+    }, 
+    {
+        "company": "Revett Mining Company", 
+        "industry": "Basic Industries", 
+        "sector": "n/a", 
+        "symbol": "RVM"
+    }, 
+    {
+        "company": "Rexahn Pharmaceuticals", 
+        "industry": "Health Care", 
+        "sector": "n/a", 
+        "symbol": "RNN"
+    }, 
+    {
+        "company": "Richmont Mines", 
+        "industry": "Basic Industries", 
+        "sector": "n/a", 
+        "symbol": "RIC"
+    }, 
+    {
+        "company": "Ring Energy", 
+        "industry": "Energy", 
+        "sector": "n/a", 
+        "symbol": "REI"
+    }, 
+    {
+        "company": "RMR Real Estate Income Fund.", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "RIF"
+    }, 
+    {
+        "company": "Rubicon Minerals Corp", 
+        "industry": "Precious Metals", 
+        "sector": "Basic Industries", 
+        "symbol": "RBY"
+    }, 
+    {
+        "company": "Saga Communications", 
+        "industry": "Consumer Services", 
+        "sector": "n/a", 
+        "symbol": "SGA"
+    }, 
+    {
+        "company": "Samson Oil & Gas Limited", 
+        "industry": "Oil & Gas Production", 
+        "sector": "Energy", 
+        "symbol": "SSN"
+    }, 
+    {
+        "company": "Sanchez Production Partners LP", 
+        "industry": "Oil & Gas Production", 
+        "sector": "Energy", 
+        "symbol": "SPP"
+    }, 
+    {
+        "company": "Sandstorm Gold Ltd", 
+        "industry": "Precious Metals", 
+        "sector": "Basic Industries", 
+        "symbol": "SAND          "
+    }, 
+    {
+        "company": "Saratoga Resources Inc", 
+        "industry": "Oil & Gas Production", 
+        "sector": "Energy", 
+        "symbol": "SARA"
+    }, 
+    {
+        "company": "Seaboard Corporation", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "SEB"
+    }, 
+    {
+        "company": "Servotronics", 
+        "industry": "Capital Goods", 
+        "sector": "n/a", 
+        "symbol": "SVT"
+    }, 
+    {
+        "company": "SIFCO Industries", 
+        "industry": "Capital Goods", 
+        "sector": "n/a", 
+        "symbol": "SIF"
+    }, 
+    {
+        "company": "Silver Bull Resources", 
+        "industry": "Basic Industries", 
+        "sector": "n/a", 
+        "symbol": "SVBL"
+    }, 
+    {
+        "company": "SilverCrest Mines", 
+        "industry": "Basic Industries", 
+        "sector": "n/a", 
+        "symbol": "SVLC"
+    }, 
+    {
+        "company": "Skyline Corporation", 
+        "industry": "Homebuilding", 
+        "sector": "Basic Industries", 
+        "symbol": "SKY"
+    }, 
+    {
+        "company": "SL Industries", 
+        "industry": "Capital Goods", 
+        "sector": "n/a", 
+        "symbol": "SLI"
+    }, 
+    {
+        "company": "Solitario Exploration & Royalty Corp", 
+        "industry": "Precious Metals", 
+        "sector": "Basic Industries", 
+        "symbol": "XPL"
+    }, 
+    {
+        "company": "Southern California Edison Company", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "SCE^B"
+    }, 
+    {
+        "company": "Southern California Edison Company", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "SCE^C"
+    }, 
+    {
+        "company": "Southern California Edison Company", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "SCE^D"
+    }, 
+    {
+        "company": "Southern California Edison Company", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "SCE^E"
+    }, 
+    {
+        "company": "Southwest Georgia Financial Corporation", 
+        "industry": "Major Banks", 
+        "sector": "Finance", 
+        "symbol": "SGB"
+    }, 
+    {
+        "company": "Spark Networks", 
+        "industry": "Miscellaneous", 
+        "sector": "n/a", 
+        "symbol": "LOV"
+    }, 
+    {
+        "company": "Straight Path Communications Inc.", 
+        "industry": "Telecommunications Equipment", 
+        "sector": "Public Utilities", 
+        "symbol": "STRP"
+    }, 
+    {
+        "company": "SunLink Health Systems", 
+        "industry": "Health Care", 
+        "sector": "n/a", 
+        "symbol": "SSY"
+    }, 
+    {
+        "company": "Superior Drilling Products", 
+        "industry": "Energy", 
+        "sector": "2014", 
+        "symbol": "SDPI"
+    }, 
+    {
+        "company": "Supreme Industries", 
+        "industry": "Capital Goods", 
+        "sector": "n/a", 
+        "symbol": "STS"
+    }, 
+    {
+        "company": "Synergy Resources Corporation", 
+        "industry": "Oil & Gas Production", 
+        "sector": "Energy", 
+        "symbol": "SYRG"
+    }, 
+    {
+        "company": "Synthetic Biologics", 
+        "industry": "Health Care", 
+        "sector": "n/a", 
+        "symbol": "SYN"
+    }, 
+    {
+        "company": "Tanzanian Royalty Exploration Corporation", 
+        "industry": "Precious Metals", 
+        "sector": "Basic Industries", 
+        "symbol": "TRX"
+    }, 
+    {
+        "company": "Taseko Mines Limited", 
+        "industry": "Precious Metals", 
+        "sector": "Basic Industries", 
+        "symbol": "TGB"
+    }, 
+    {
+        "company": "Tasman Metals Ltd", 
+        "industry": "Precious Metals", 
+        "sector": "Basic Industries", 
+        "symbol": "TAS"
+    }, 
+    {
+        "company": "Tejon Ranch Co", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "TRC/WS"
+    }, 
+    {
+        "company": "Tel-Instrument Electronics Corp.", 
+        "industry": "Electrical Products", 
+        "sector": "Capital Goods", 
+        "symbol": "TIK"
+    }, 
+    {
+        "company": "Tengasco", 
+        "industry": "Energy", 
+        "sector": "n/a", 
+        "symbol": "TGC"
+    }, 
+    {
+        "company": "The Gabelli Global Utility and Income Trust", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "GLU"
+    }, 
+    {
+        "company": "The Gabelli Global Utility and Income Trust", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "GLU^A"
+    }, 
+    {
+        "company": "TherapeuticsMD", 
+        "industry": "Health Care", 
+        "sector": "n/a", 
+        "symbol": "TXMD"
+    }, 
+    {
+        "company": "Tianyin Pharmaceutical Co.", 
+        "industry": "Health Care", 
+        "sector": "n/a", 
+        "symbol": "TPI"
+    }, 
+    {
+        "company": "Timberline Resources Corporation", 
+        "industry": "Precious Metals", 
+        "sector": "Basic Industries", 
+        "symbol": "TLR"
+    }, 
+    {
+        "company": "Timmons Gold Corp", 
+        "industry": "Precious Metals", 
+        "sector": "Basic Industries", 
+        "symbol": "TGD"
+    }, 
+    {
+        "company": "Tofutti Brands Inc.", 
+        "industry": "Specialty Foods", 
+        "sector": "Consumer Non-Durables", 
+        "symbol": "TOF"
+    }, 
+    {
+        "company": "Tompkins Financial Corporation", 
+        "industry": "Major Banks", 
+        "sector": "Finance", 
+        "symbol": "TMP"
+    }, 
+    {
+        "company": "Transatlantic Petroleum Ltd", 
+        "industry": "Oil & Gas Production", 
+        "sector": "Energy", 
+        "symbol": "TAT"
+    }, 
+    {
+        "company": "TransEnterix", 
+        "industry": "Health Care", 
+        "sector": "n/a", 
+        "symbol": "TRXC"
+    }, 
+    {
+        "company": "Triangle Petroleum Corporation", 
+        "industry": "Oil & Gas Production", 
+        "sector": "Energy", 
+        "symbol": "TPLM"
+    }, 
+    {
+        "company": "Trio-Tech International", 
+        "industry": "Industrial Machinery/Components", 
+        "sector": "Technology", 
+        "symbol": "TRT"
+    }, 
+    {
+        "company": "U.S. Geothermal Inc.", 
+        "industry": "Electric Utilities: Central", 
+        "sector": "Public Utilities", 
+        "symbol": "HTM"
+    }, 
+    {
+        "company": "United States Antimony Corporation", 
+        "industry": "Metal Fabrications", 
+        "sector": "Capital Goods", 
+        "symbol": "UAMY"
+    }, 
+    {
+        "company": "Universal Security Instruments", 
+        "industry": "Consumer Non-Durables", 
+        "sector": "n/a", 
+        "symbol": "UUU"
+    }, 
+    {
+        "company": "UQM TECHNOLOGIES INC", 
+        "industry": "Industrial Machinery/Components", 
+        "sector": "Capital Goods", 
+        "symbol": "UQM"
+    }, 
+    {
+        "company": "Ur Energy Inc", 
+        "industry": "Precious Metals", 
+        "sector": "Basic Industries", 
+        "symbol": "URG"
+    }, 
+    {
+        "company": "Uranerz Energy Corporation", 
+        "industry": "Precious Metals", 
+        "sector": "Basic Industries", 
+        "symbol": "URZ"
+    }, 
+    {
+        "company": "Uranium Energy Corp.", 
+        "industry": "Precious Metals", 
+        "sector": "Basic Industries", 
+        "symbol": "UEC"
+    }, 
+    {
+        "company": "Vantage Drilling Company", 
+        "industry": "Oil & Gas Production", 
+        "sector": "Energy", 
+        "symbol": "VTG"
+    }, 
+    {
+        "company": "Versar", 
+        "industry": "Consumer Services", 
+        "sector": "1986", 
+        "symbol": "VSR"
+    }, 
+    {
+        "company": "Vicon Industries", 
+        "industry": "Consumer Durables", 
+        "sector": "n/a", 
+        "symbol": "VII"
+    }, 
+    {
+        "company": "VirnetX Holding Corp", 
+        "industry": "Multi-Sector Companies", 
+        "sector": "Miscellaneous", 
+        "symbol": "VHC"
+    }, 
+    {
+        "company": "Vista Gold Corporation", 
+        "industry": "Precious Metals", 
+        "sector": "Basic Industries", 
+        "symbol": "VGZ"
+    }, 
+    {
+        "company": "VolitionRX Limited", 
+        "industry": "Biotechnology: In Vitro & In Vivo Diagnostic Substances", 
+        "sector": "Health Care", 
+        "symbol": "VNRX"
+    }, 
+    {
+        "company": "Volt Information Sciences", 
+        "industry": "Technology", 
+        "sector": "n/a", 
+        "symbol": "VISI"
+    }, 
+    {
+        "company": "Wells Fargo Advantage Income Opportunities Fund", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "EAD"
+    }, 
+    {
+        "company": "Wells Fargo Advantage Multi-Sector Income Fund", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "ERC"
+    }, 
+    {
+        "company": "Wells Fargo Advantage Utilities and High Income Fund", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "ERH"
+    }, 
+    {
+        "company": "Western Asset Intermediate Muni Fund Inc", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "SBI"
+    }, 
+    {
+        "company": "Western Copper and Gold Corporation", 
+        "industry": "Precious Metals", 
+        "sector": "Basic Industries", 
+        "symbol": "WRN"
+    }, 
+    {
+        "company": "WidePoint Corporation", 
+        "industry": "EDP Services", 
+        "sector": "Technology", 
+        "symbol": "WYY"
+    }, 
+    {
+        "company": "Wireless Telecom Group", 
+        "industry": "Capital Goods", 
+        "sector": "n/a", 
+        "symbol": "WTT"
+    }, 
+    {
+        "company": "Yuma Energy", 
+        "industry": "Energy", 
+        "sector": "n/a", 
+        "symbol": "YUMA"
+    }, 
+    {
+        "company": "Yuma Energy", 
+        "industry": "n/a", 
+        "sector": "n/a", 
+        "symbol": "YUMA^A"
+    }, 
+    {
+        "company": "ZBB Energy Corporation", 
+        "industry": "Electric Utilities: Central", 
+        "sector": "Public Utilities", 
+        "symbol": "ZBB"
+    }
+]
